@@ -1,7 +1,6 @@
 {
 	"name": "threejs-boilerplate",
 	"version": "1.0.0",
-	"main": "index.js",
 	"dependencies": {
 		"parcel": "^2.7.0",
 		"three": "^0.144.0"
